@@ -1,0 +1,483 @@
+@media (orientation: landscape) {
+  body {
+   
+  }
+}
+
+  div.uibutton {
+    z-index: 13;
+    width: 33%;
+    height: 7%;
+    position: absolute;
+    bottom: 0px;
+    background-color: #F5F5F5;
+    text-align: center;
+    color: #FFFFFF;
+    vertical-align: middle;
+    user-select: none;
+  }
+
+  div.uibutton2 {
+    z-index: 13;
+    width: 34%;
+    height: 7%;
+    position: absolute;
+    bottom: 0px;
+    left: 33%;
+    background-color: #F5F5F5;
+    text-align: center;
+    color: #FFFFFF;
+    vertical-align: middle;
+    user-select: none;
+  }
+
+
+
+
+
+  div.uibutton3 {
+    z-index: 13;
+    width: 33%;
+    height: 7%;
+    position: absolute;
+    bottom: 0px;
+    left: 67%;
+    background-color: #F5F5F5;
+    text-align: center;
+    color: #FFFFFF;
+    vertical-align: middle;
+    user-select: none;
+  }
+
+  div.UIbackground {
+    z-index: 11;
+    width: 100%;
+    height: 10%;
+    bottom: 7%;
+    position: absolute;
+    background-color: #F5F5F5;
+    text-align: left;
+    vertical-align: top;
+    color:black;
+    user-select: none;
+    border-bottom: 1px solid #E0E0E0;
+    
+  }
+
+  h3.uiHeading {
+    z-index: 12;
+    width: 100%;
+    height: 10%;
+    bottom: 0%;
+    left:5%;
+    position:fixed;
+    
+    text-align: left;
+    vertical-align: top;
+    color:black;
+    user-select: none;
+    font-family: "helvetica";
+  
+    
+  }
+
+  .prompt-box-8w {
+    background-color: white;
+    color: #ef2d5e;
+  }
+  .prompt-button-8w {
+    background-color: #ef2d5e;
+  }
+  
+  .button-primary-8w {
+    background-color: #ef2d5e;
+  }
+
+  h3.uiHeading2 {
+    z-index: 12;
+    width: 100%;
+    height: 10%;
+    bottom: 0%;
+    right:5%;
+    position:fixed;
+    
+    text-align: right;
+    vertical-align: top;
+    color:#ef2d5e;
+    user-select: none;
+    font-family: "helvetica";
+  
+    
+  }
+
+ 
+
+ 
+
+  
+ p.uitext {
+    z-index: 12;
+    width: 100%;
+    height: 9%;
+    bottom: 4%;
+    left:5%;
+    position:fixed;
+    
+    text-align: left;
+    vertical-align: center;
+    color:#ef2d5e;
+    user-select: none;
+    font-family: "helvetica";
+  
+    
+  }
+
+ div.sideuileft{
+    z-index: 13;
+    left: 3%;
+    bottom: 21%;
+    position: absolute;
+    
+    text-align: center;
+    color:white;
+    vertical-align: middle;
+    user-select: none;
+ }
+
+ div.sideuiright{
+  z-index: 13;
+  right: 3%;
+  bottom: 20%;
+  position: absolute;
+  
+  text-align: center;
+  color:white;
+  vertical-align: middle;
+  user-select: none;
+}
+
+ div.shoppingCartButton {
+
+    width: 65px;
+    height: 65px;
+    position: relative;
+    background-color:#ef2d5e;
+    text-align: center;
+    color:white;
+    vertical-align: middle;
+    margin:auto;
+    user-select: none;
+    border-radius: 32.5px;
+  }
+
+
+  div.websiteButton {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 20% auto;
+    background-color:#ef2d5e;
+
+    text-align: center;
+    color:white;
+    vertical-align: middle;
+    user-select: none;
+    border-radius: 25px;
+  }
+
+  div.uibuttonscan1{
+    z-index: 10;
+    width: 40%;
+    height: 10%;
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    background-color:#ef2d5e;
+    
+    color:white;
+   
+    
+
+   
+  }
+  .button {
+    z-index: 12;
+    background-color: #ef2d5e;
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    bottom: 8%;
+    left:0px;
+    right:0px;
+    width: 20%;
+    height: 7.5%;
+    border-radius: 5%;
+  }
+
+  
+  div.uibuttonScan{
+    z-index: 15;
+    width: 25%;
+    height: 3.5%;
+    position: relative;
+    bottom: 0px;
+    left: 33%;
+    background-color: #ef2d5e;
+    text-align: center;
+    color: #FFFFFF;
+    vertical-align: middle;
+    user-select: none;
+    font-family: "helvetica";
+  }
+  div.uibuttonscan2{
+    z-index: 15;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    
+    text-align: center;
+    color:white;
+    vertical-align: middle;
+    user-select: none;
+    border-radius: 32.5px;
+    font-family: "helvetica";
+  }
+
+  .resetbutton {
+    z-index: 12;
+    
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    top: 2%;
+    right:2%;
+    width: 10%;
+    height: 10%;
+    border-radius: 5%;
+  }
+
+  .resetbutton2 {
+    z-index: 12;
+    
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    top: 0%;
+    left:0%;
+    width: 10%;
+    height: 10%;
+    border-radius: 5%;
+  }
+
+  .uibutton3D {
+    z-index: 12;
+    
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    bottom: 30%;
+    left:0%;
+    width: 10%;
+    height: 10%;
+    border-radius: 5%;
+  }
+
+
+  .heartbutton {
+    z-index: 14;
+    
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20%;
+    left:0px;
+    width: 10%;
+    height: 10%;
+    border-radius: 5%;
+  }
+  
+
+
+.infoText{
+  z-index: 5;
+    
+    border: none;
+    color: white;
+    font-size: 8em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    position: absolute;
+    bottom: 15%;
+    left:9%;
+    right:11%;
+    width: auto;
+    height: 10%;
+    border-radius: 5%;
+    font-family: "helvetica";
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.infoText1{
+  z-index: 12;
+    
+    border: none;
+    color: black;
+    font-size: 8em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    position: absolute;
+    bottom: -4%;
+    left:10%;
+    right:10%;
+    width: auto;
+    height: 10%;
+    border-radius: 5%;
+    font-family: "helvetica";
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+div.uiButton3D {
+
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color:#E0E0E0;
+  text-align: center;
+  color:white;
+  vertical-align: middle;
+  margin:auto;
+  user-select: none;
+  border-radius: 25px;
+}
+
+div.uiButton3D1 {
+
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color:#E0E0E0;
+  text-align: center;
+  color:white;
+  vertical-align: middle;
+  margin:auto;
+  user-select: none;
+  border-radius: 25px;
+}
+div.full-height {
+  height: 35%;
+  bottom: 0px;
+  width: 100%;
+  background-color:#FFFFFF;
+  z-index: 12;
+  opacity: 0.9;
+  position: absolute;
+  
+}
+
+img.template {
+  width: 35%;
+  top: -27.5%;
+  left: 32.5%;
+  position: absolute;
+  
+ 
+}
+
+.texttemplate{
+  z-index: 12;
+    
+  border: none;
+  color: black;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  margin: auto;
+  position: absolute;
+  bottom: 13%;
+  left:10%;
+  right:10%;
+  width: auto;
+  height: 10%;
+  border-radius: 5%;
+  font-family: "helvetica";
+  
+  
+
+}
+
+.prompt-box-8w {
+  background: #ef2d5e;
+  
+}
+.prompt-button-8w {
+  background-color:#ef2d5e;
+  color: white;
+}
+
+.button-primary-8w {
+  background-color:#ef2d5e;
+  color: white
+}
+
+
+
+
+
